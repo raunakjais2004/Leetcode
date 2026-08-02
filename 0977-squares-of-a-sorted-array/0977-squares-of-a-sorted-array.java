@@ -6,6 +6,7 @@ class Solution {
             nums[i] = nums[i] * nums[i];
         }
 
+
         Arrays.sort(nums);
         return nums;
     }
