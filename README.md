@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/raunakjais2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/raunakjais2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
