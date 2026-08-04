@@ -18,6 +18,7 @@
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -32,4 +33,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
