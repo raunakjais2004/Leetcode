@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -37,10 +38,15 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/raunakjais2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
