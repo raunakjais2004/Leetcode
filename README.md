@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
@@ -59,4 +61,20 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
