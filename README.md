@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/raunakjais2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
