@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raunakjais2004/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/raunakjais2004/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raunakjais2004/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String Matching
 |  |
 | ------- |
