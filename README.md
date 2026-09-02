@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/raunakjais2004/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/raunakjais2004/Leetcode/tree/master/0067-add-binary) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakjais2004/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raunakjais2004/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunakjais2004/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunakjais2004/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunakjais2004/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
