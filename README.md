@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjais2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjais2004/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunakjais2004/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,12 +52,14 @@
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjais2004/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunakjais2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunakjais2004/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -94,6 +98,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/raunakjais2004/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunakjais2004/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
