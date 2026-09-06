@@ -12,11 +12,11 @@ class Solution {
         }
         int[] ans = new int[result.size()];
 
-        int index = 0;
-
-        for (int num : result) {
-            ans[index] = num;
-            index++;
+        int j = 0;
+        Iterator<Integer> it=result.iterator();
+        while(it.hasNext()){
+            ans[j]=it.next();
+            j++;
         }
 
         return ans;
