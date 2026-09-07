@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
@@ -96,6 +97,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -162,4 +164,8 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunakjais2004/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/raunakjais2004/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/raunakjais2004/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
