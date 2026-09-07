@@ -83,6 +83,7 @@
 | [0459-repeated-substring-pattern](https://github.com/raunakjais2004/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/raunakjais2004/Leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunakjais2004/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/raunakjais2004/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raunakjais2004/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/raunakjais2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/raunakjais2004/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/raunakjais2004/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunakjais2004/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunakjais2004/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String Matching
