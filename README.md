@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/raunakjais2004/Leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/raunakjais2004/Leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunakjais2004/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/raunakjais2004/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
@@ -42,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/raunakjais2004/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunakjais2004/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -170,4 +173,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
