@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raunakjais2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/raunakjais2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raunakjais2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/raunakjais2004/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/raunakjais2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/raunakjais2004/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/raunakjais2004/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -102,6 +105,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/raunakjais2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakjais2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
