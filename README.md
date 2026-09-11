@@ -21,6 +21,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunakjais2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunakjais2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/raunakjais2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/raunakjais2004/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -58,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunakjais2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -110,6 +112,7 @@
 | [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raunakjais2004/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunakjais2004/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raunakjais2004/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/raunakjais2004/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -150,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/raunakjais2004/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunakjais2004/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
@@ -183,4 +187,20 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/raunakjais2004/Leetcode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raunakjais2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
